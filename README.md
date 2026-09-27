@@ -52,11 +52,11 @@ Programa desarrollado en C que permite administrar registros de pacientes de una
 
 **Cada paciente almacena:**
 
-Nombre ->	**char**
-Nombre del tutor	-> **char**
-Edad	-> **int**
-Peso	-> **float**
-Estatura	-> **float**
+Nombre ->	**char**<br>
+Nombre del tutor	-> **char**<br>
+Edad	-> **int**<br>
+Peso	-> **float**<br>
+Estatura	-> **float**<br>
 
 ### Contribuciones
 
