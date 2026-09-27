@@ -7,7 +7,7 @@ Este es un programa que realiza un CRUD para administrar la gestión de datos en
 ### Tecnologías Usadas:
 
   **Lenguaje C**<br>
-      *#include <stdio.h>: Standard Input/Output library.<br>
-      *#include <string.h>: String handling library.<br>
+      *#include <stdio.h>: Standard Input/Output library.<br>*
+      *#include <string.h>: String handling library.<br>*
 
 ### Características Principales
