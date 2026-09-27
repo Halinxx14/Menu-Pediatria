@@ -52,26 +52,26 @@ Programa desarrollado en C que permite administrar registros de pacientes de una
 
 **Cada paciente almacena:**
 
-**Dato**  	        **Tipo**
-Nombre	            char
-Nombre del tutor	  char
-Edad	              int
-Peso	              float
-Estatura	          float
+**Dato**  	            **Tipo**
+Nombre<br>	            char<br>
+Nombre del tutor<br>	  char<br>
+Edad<br>	              int<br>
+Peso<br>	              float<br>
+Estatura<br>	          float<br>
 
 ### Contribuciones
 
 ***¡Las contribuciones son bienvenidas! Si deseas ayudar a mejorar este proyecto, puedes seguir estos pasos:***
 
 1. Haz un fork del repositorio.
-2. Clona tu fork en tu computadora.
+2. Clona tu fork en tu computadora.<br>
 *git clone URL-DE-TU-REPOSITORIO*
-3. Crea una nueva rama:
+3. Crea una nueva rama:<br>
 *git checkout -b nombre-de-tu-rama*
-4. Realiza tus cambios y crea un commit:
+4. Realiza tus cambios y crea un commit:<br>
 *git add .*
 *git commit -m "Descripción de tus cambios"*
-5. Envía los cambios a tu repositorio:
+5. Envía los cambios a tu repositorio:<br>
 *git push origin nombre-de-tu-rama*
 6. Abre un Pull Request desde GitHub para proponer tus cambios.
 
