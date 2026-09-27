@@ -1,2 +1,2 @@
-# Menu-Pediatria
-Programa que realiza un CRUD para administrar una clínica pediatrica
+# **Clínica Pediatrica**
+Este es un programa que realiza un CRUD para administrar la gestión de datos en una clínica de pediatria. Permite añadir pacientes, consultarlos, modificar y eliminarlos.
