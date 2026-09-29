@@ -1,6 +1,6 @@
 # **🏥 Clínica Pediatrica**
 
-Programa desarrollado en C que permite administrar registros de pacientes de una clínica pediátrica mediante operaciones CRUD.
+## Programa desarrollado en C que permite administrar registros de pacientes de una clínica pediátrica mediante operaciones CRUD.
 
 <img src="https://clinicapromed.com/assets/images/pediatria/banner-pediatria.jpeg" width="500">
 
